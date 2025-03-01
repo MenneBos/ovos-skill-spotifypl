@@ -1,2 +1,2 @@
 # ovos-skill-spotifypl
-check
+check nice
